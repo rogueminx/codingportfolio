@@ -1,0 +1,14 @@
+.container{
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  align: center;
+}
+.top-row {
+  background: url('../pictures/PETALS.jpg') center no-repeat;
+}
+img.me {
+  border-width: 2px;
+  border-color: black
+}
