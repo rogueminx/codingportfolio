@@ -1,14 +1,15 @@
 .container{
-  margin-top: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 30px;
-  align: center;
+  margin: 0 auto;
 }
 .top-row {
   background: url('../pictures/PETALS.jpg') center no-repeat;
+  padding-top: 30px;
 }
-img.me {
-  border-width: 2px;
-  border-color: black
+.h1 {
+  text-align: center;
+  font-family: serif;
+}
+.body {
+  text-align: center;
+  margin: 0 auto;
 }
