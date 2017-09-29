@@ -5,9 +5,28 @@
   background: url('../pictures/PETALS.jpg') center no-repeat;
   padding-top: 30px;
 }
+
+.row {
+  background-color: #1a1a1a;
+  color: white;
+}
+
 h1 {
   text-align: center;
 }
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: gray;
+}
+
 .body {
   text-align: center;
   margin: 0 auto;
