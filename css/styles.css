@@ -1,18 +1,50 @@
 .container{
   margin: 0 auto;
 }
+
 .top-row {
   background: url('../pictures/PETALS.jpg') center no-repeat;
   padding-top: 30px;
 }
 
+.col-md-6 {
+  padding: 20px;
+}
+
+.body {
+  margin: 0 auto;
+}
+
 .row {
   background-color: #1a1a1a;
   color: white;
+  font-family: serif;
+  padding: 20px;
+  border: white 1px solid;
+}
+
+.footer {
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  margin: 20px 0px 40px 0px;
 }
 
 h1 {
   text-align: center;
+  font-family: serif;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+h3 {
+  text-align: center;
+  background-color: #df9a75;
+  padding: 5px 25px 5px 25px;
+  border-radius: 2px;
+  text-transform: uppercase;
 }
 
 a:link {
@@ -24,10 +56,5 @@ a:visited {
 }
 
 a:hover {
-    color: gray;
-}
-
-.body {
-  text-align: center;
-  margin: 0 auto;
+    color: #e3e3e3;
 }
