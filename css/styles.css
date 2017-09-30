@@ -28,7 +28,6 @@
   background-color: #1a1a1a;
   color: white;
   font-family: serif;
-  padding: 20px;
   border: white 1px solid;
 }
 
@@ -39,6 +38,12 @@
   font-style: italic;
   font-size: 14px;
   margin: 20px 0px 40px 0px;
+}
+
+.roses {
+  background: url('../pictures/Roses.jpg') center no-repeat;
+  height: 200px;
+  padding: 0px;
 }
 
 h1 {
