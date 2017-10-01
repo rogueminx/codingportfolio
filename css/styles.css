@@ -9,7 +9,7 @@
 }
 
 .col-md-5 {
-  padding: 20px;
+  padding: 30px;
   display: table-cell;
 }
 
@@ -17,6 +17,7 @@
   background: url('../pictures/moth.jpg') center;
   background-repeat: repeat-y;
   display: table-cell;
+  height: 600px;
 }
 
 .col-md-4 {
@@ -24,8 +25,18 @@
   padding: 20px;
 }
 
+.col-md-4 img {
+  float: left;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
 .body {
   margin: 0 auto;
+}
+
+.moth01 {
+  float: left;
 }
 
 .row {
@@ -58,7 +69,14 @@
 
 .websiteimg {
   padding: 10px 0px 30px 0px;
-  text-align: center;
+}
+
+.col-md-4 ul {
+  padding-top: 30 px;
+}
+
+.col-md-4 ul li{
+  font-size: 18px;
 }
 
 h1 {
